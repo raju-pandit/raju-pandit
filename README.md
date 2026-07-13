@@ -38,12 +38,19 @@
 
 [![Raju's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raju-pandit&theme=react-dark&hide_border=true&area=true)](https://github.com/raju-pandit)
 ---
+## 📊 Stats
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raju-pandit&show_icons=true&theme=tokyonight" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju-pandit&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=raju-pandit&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raju-pandit&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raju-pandit&theme=react-dark&hide_border=true&area=true" />
+</p>
 ## 🌟 Featured Projects
 | Project | Description |
 |----------|------------|
