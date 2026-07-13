@@ -36,9 +36,7 @@
 </p>
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raju-pandit/raju-pandit/main/contribution-graph.png" alt="Contribution Graph" width="100%" />
-</p>
+[![Raju's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raju-pandit&theme=react-dark&hide_border=true&area=true)](https://github.com/raju-pandit)
 ---
 
 ## 🌟 Featured Projects
