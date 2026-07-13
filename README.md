@@ -80,3 +80,8 @@
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raju-pandit/raju-pandit/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
