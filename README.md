@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="./dark.svg" width="100%" />
 <!--
 **raju-pandit/raju-pandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
