@@ -38,13 +38,8 @@
 
 [![Raju's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raju-pandit&theme=react-dark&hide_border=true&area=true)](https://github.com/raju-pandit)
 ---
-## 📊 Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=raju-pandit&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 | Project | Description |
 |----------|------------|
 | 🚀 API Testing Platform | Postman Lite Clone |
