@@ -34,7 +34,11 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raju-pandit&theme=tokyonight"/>
 </p>
+## 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raju-pandit/raju-pandit/main/contribution-graph.png" alt="Contribution Graph" width="100%" />
+</p>
 ---
 
 ## 🌟 Featured Projects
