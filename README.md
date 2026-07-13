@@ -76,9 +76,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raju-pandit&label=Profile+Views&color=00D4FF&style=for-the-badge" />
-</p>
 
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
