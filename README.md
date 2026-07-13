@@ -34,7 +34,7 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raju-pandit&theme=tokyonight"/>
 </p>
-# 📈 Contribution Graph
+📈 Contribution Graph
 
 [![Raju's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raju-pandit&theme=react-dark&hide_border=true&area=true)](https://github.com/raju-pandit)
 ---
@@ -81,7 +81,7 @@
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </p>
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/raju-pandit/raju-pandit/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
